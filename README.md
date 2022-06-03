@@ -1,5 +1,5 @@
 # BASIC
-The Young's💀💀 New facebook working tools 🇳🇬🔥🔥
+The Young's💀💀 
 $ pkg install python git
 
 $ pkg install pip
